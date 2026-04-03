@@ -1,1 +1,0 @@
-Static site for psychic-advisor-ratings.com
